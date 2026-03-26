@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Boris's Homepage"
+title                    : "Songyue Chen's Homepage"
 title_separator          : "-"
-name                     : &name "Boris Meinardus"
+name                     : &name "Songyue Chen"
 description              : &description "personal description"
-url                      : https://sudo-Boris.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://719csy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sudo-Boris/sudo-Boris.github.io"
+repository               : "719csy/719csy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Boris Meinardus"
+  name             : "Songyue Chen"
   avatar           : "Profile_pic2.png"
-  bio              : "Openendedness at Sakana AI"
-  location         : "Tokyo, Japan"
+  bio              : "Ph.D. researcher in Bioengineering at UCLA developing AI-enabled sensing and inverse models for healthcare. Current work combines magnetoelastic microneedle biosensing, physics-informed reconstruction, and multimodal generative modeling for efficient inference of skin tumor depth and stiffness from sparse sensor data."
+  location         : "Los Angeles, USA"
   employer         : "Sakana AI"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=UMKkDVwAAAAJ"
-  email            : "boris.meinardus00@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : 
+  email            : "chensongyue98@ucla.edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Songyue-Chen-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sudo-Boris"
+  github           : "719csy"
   google_plus      :
   keybase          :
   instagram        :
