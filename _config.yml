@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Songyue Chen"
-  avatar           : "Profile_pic2.png"
+  avatar           : "Profile_pic.jpg"
   bio              : "Ph.D. researcher in Bioengineering at UCLA developing AI-enabled sensing and inverse models for healthcare. Current work combines magnetoelastic microneedle biosensing, physics-informed reconstruction, and multimodal generative modeling for efficient inference of skin tumor depth and stiffness from sparse sensor data."
   location         : "Los Angeles, USA"
   employer         : "Sakana AI"
