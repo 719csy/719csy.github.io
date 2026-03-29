@@ -17,9 +17,12 @@ redirect_from:
 
 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
-# Selected Experience
+# Selected publications
 
-## 👨🏻‍🔬 Professional Experience
+
+
+## 👨🏻‍🔬 Hornors and Awards
+
 Currently, I am working as a **Research Scientist** at Sakana AI exploring how to develop an *openended algorithm to coevolve a population of agents and the environment they are in*. \
 Before this, I explored latent reasoning by combining diffusion models with large language models and how to train a process reward model for training multimodal large language models as UI-Agents.
 
@@ -33,7 +36,12 @@ I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav)
 
 Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
 
-## 📜 Reimplementing and Reproducing Papers
+## Academic Services
+
+Journal Reviewer:
+[Med-X](https://link.springer.com/journal/44258) (Springer Nature)
+[Biosensors and Bioelectronics](https://www.sciencedirect.com/journal/biosensors-and-bioelectronics) (Elsevier)
+
 I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
 
 To accompany this work, I have submitted a blog post to the **ICLR** Blogposts Track communicating the paper's theory and my results.
