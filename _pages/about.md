@@ -11,7 +11,7 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/cover.jpg){: .align-right width="300px"}
-👨🏻‍💻 I'm a Research Scientist at Sakana AI.
+👨🏻‍💻 I'm a doctoral student at the [Bioelectronic Research Group](https://www.junchenlab.com) at of the University of California, Los Angeles (UCLA), advised by [Prof. Jun Chen](https://samueli.ucla.edu/people/junchen/).
 
 🔬 My research interests are in Openended Learning using large foundation models!
 
