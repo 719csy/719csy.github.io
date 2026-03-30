@@ -2,13 +2,7 @@
 main:
   - title: "CV"
     # url: /cv/
-    url: /files/Resume.pdf
-
-  - title: "Portfolio"
-    url: /portfolio/
-  
-  - title: "Publications"
-    url: /publications/
+    url: /files/Songyue_Chen_Amazon_Fellowship_CV_v5.pdf
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en
         
   # - title: "Blog Posts"

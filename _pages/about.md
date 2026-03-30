@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-# Selected publications 
-
+# Publications 
+[Full list](https://www.researchgate.net/profile/Songyue-Chen-2)
 
 
 ## 👨🏻‍🔬 Hornors and Awards
@@ -32,7 +32,7 @@ Journal Reviewer:
 
 
 
-## 📚 Teaching and Community Contributions
+## Teaching and Community Contributions
 + BE166/266 Wearable bioelectronics Fall 2025 [evaluation report]({{ '/files/Individual%20Instructor%20Report%20-%2025F%20BIOENGR%200166.pdf' | relative_url }})
 + Biocompatibility Spring 2026 
 
