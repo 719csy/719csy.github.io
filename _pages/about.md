@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Songyue!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a doctoral student at the [Bioelectronics Research Group](https://www.junchenlab.com) of the University of California, Los Angeles (UCLA), advised by [Prof. Jun Chen](https://samueli.ucla.edu/people/junchen/).
 
 
 # Publications 
