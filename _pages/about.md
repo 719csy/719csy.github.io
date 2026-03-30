@@ -9,48 +9,32 @@ redirect_from:
 ---
 
 
-
-![Illustration of combining vision and language modalities](/images/cover.jpg){: .align-right width="300px"}
-👨🏻‍💻 I'm a doctoral student at the [Bioelectronic Research Group](https://www.junchenlab.com) at of the University of California, Los Angeles (UCLA), advised by [Prof. Jun Chen](https://samueli.ucla.edu/people/junchen/).
-
-🔬 My research interests are in Openended Learning using large foundation models!
-
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
-
-# Selected publications
+# Selected publications 
 
 
 
 ## 👨🏻‍🔬 Hornors and Awards
++ 2024 Department fellowship (Fall, Winter, Spring, UCLA)
++ 2023 Excellent Graduate (Peking University)
++ 2022 Award for Contribution in Student Organizations (Peking University)
++ 2021 Scholarship for Outstanding Medical Students (Peking University)
++ 2021 Award for Scientific Research (Peking University)
++ 2018 Japan Daiichi Pharmaceutical Scholarship
 
-Currently, I am working as a **Research Scientist** at Sakana AI exploring how to develop an *openended algorithm to coevolve a population of agents and the environment they are in*. \
-Before this, I explored latent reasoning by combining diffusion models with large language models and how to train a process reward model for training multimodal large language models as UI-Agents.
-
-During my final year at college I was working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach working on **Generative Video-Language Modelling**.
-
-Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
-There I worked on dynamic traffic flow forecasting using Graph Neural Networks.
-
-## 🤖 Open Source Contributions
-I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
-
-Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
 
 ## Academic Services
 
 Journal Reviewer:
-[Med-X](https://link.springer.com/journal/44258) (Springer Nature)
-[Biosensors and Bioelectronics](https://www.sciencedirect.com/journal/biosensors-and-bioelectronics) (Elsevier)
 
-I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
++ [Med-X](https://link.springer.com/journal/44258) (Springer Nature)
 
-To accompany this work, I have submitted a blog post to the **ICLR** Blogposts Track communicating the paper's theory and my results.
++ [Biosensors and Bioelectronics](https://www.sciencedirect.com/journal/biosensors-and-bioelectronics) (Elsevier)
 
-Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
+
 
 ## 📚 Teaching and Community Contributions
-To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
-Moreover, I try my best to be a reviewer at top conferences that people don't hate. I even got an [outstanding reviewer award](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee) at the CVPR 2025 conference!
++ BE166/266 Wearable bioelectronics Fall 2025 [evaluation report]({{ '/files/Individual%20Instructor%20Report%20-%2025F%20BIOENGR%200166.pdf' | relative_url }})
++ Biocompatibility Spring 2026 
 
 
 
