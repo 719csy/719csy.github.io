@@ -1,0 +1,35 @@
+{% case include.name %}
+{% when "location" %}
+<svg class="author__icon author__icon--stroke" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+  <path d="M8 14s4-3.2 4-7A4 4 0 1 0 4 7c0 3.8 4 7 4 7Z"/>
+  <circle cx="8" cy="7" r="1.5"/>
+</svg>
+{% when "employer" %}
+<svg class="author__icon author__icon--stroke" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+  <rect x="3" y="2.5" width="10" height="11" rx="1.5"/>
+  <path d="M6 5.5h1M9 5.5h1M6 8h1M9 8h1"/>
+  <path d="M6.75 13.5v-2.75h2.5v2.75"/>
+</svg>
+{% when "email" %}
+<svg class="author__icon author__icon--stroke" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+  <rect x="2" y="3.5" width="12" height="9" rx="1.5"/>
+  <path d="m3.5 5 4.5 3.5L12.5 5"/>
+</svg>
+{% when "researchgate" %}
+<svg class="author__icon author__icon--stroke" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+  <rect x="2.25" y="2.25" width="11.5" height="11.5" rx="2.25"/>
+  <text x="8" y="10.15" text-anchor="middle" font-size="4.8" font-weight="700" font-family="Arial, sans-serif" fill="currentColor" stroke="none">RG</text>
+</svg>
+{% when "twitter" %}
+<svg class="author__icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+  <path fill="currentColor" d="M16 3.539a6.461 6.461 0 0 1-1.884.516 3.301 3.301 0 0 0 1.443-1.816 6.533 6.533 0 0 1-2.087.793A3.28 3.28 0 0 0 7.875 6.03 9.325 9.325 0 0 1 1.114 2.6a3.282 3.282 0 0 0 1.015 4.381 3.27 3.27 0 0 1-1.486-.41v.041a3.283 3.283 0 0 0 2.632 3.218 3.305 3.305 0 0 1-1.482.056 3.284 3.284 0 0 0 3.066 2.277A6.588 6.588 0 0 1 0 13.525a9.29 9.29 0 0 0 5.031 1.475c6.037 0 9.341-5.003 9.341-9.34 0-.142-.003-.283-.009-.423A6.676 6.676 0 0 0 16 3.539z"/>
+</svg>
+{% when "linkedin" %}
+<svg class="author__icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+  <path fill="currentColor" d="M14.983 14.983h-2.554V9.93c0-1.205-.024-2.754-1.679-2.754-1.68 0-1.937 1.312-1.937 2.67v5.137H6.26V6.75h2.451v1.123h.034c.342-.648 1.18-1.332 2.428-1.332 2.596 0 3.076 1.709 3.076 3.934v4.508zM3.364 5.63a1.483 1.483 0 1 1 0-2.966 1.483 1.483 0 0 1 0 2.966zm1.277 9.353H2.087V6.75H4.64v8.233zM16 0H0v16h16z"/>
+</svg>
+{% when "github" %}
+<svg class="author__icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+  <path fill="currentColor" d="M8 0C3.582 0 0 3.582 0 8c0 3.535 2.29 6.533 5.47 7.59.4.074.547-.174.547-.386 0-.192-.007-.699-.01-1.372-2.226.484-2.695-1.073-2.695-1.073-.364-.924-.89-1.17-.89-1.17-.726-.496.055-.486.055-.486.803.057 1.225.824 1.225.824.714 1.223 1.873.87 2.33.665.072-.517.28-.87.508-1.07-1.777-.203-3.644-.889-3.644-3.958 0-.874.312-1.588.823-2.148-.082-.203-.357-1.02.078-2.127 0 0 .672-.215 2.2.82A7.658 7.658 0 0 1 8 4.845a7.65 7.65 0 0 1 2.004.27c1.527-1.035 2.197-.82 2.197-.82.437 1.107.162 1.924.08 2.127.513.56.822 1.274.822 2.148 0 3.077-1.87 3.752-3.652 3.95.287.248.543.738.543 1.487 0 1.074-.01 1.94-.01 2.203 0 .214.145.464.55.385A8.003 8.003 0 0 0 16 8c0-4.418-3.582-8-8-8z"/>
+</svg>
+{% endcase %}

@@ -1,3 +1,6 @@
 _site/
+.bundle/
+vendor/bundle/
+jekyll-preview*.log
 
 *.DS_Store

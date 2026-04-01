@@ -220,6 +220,21 @@
     white-space: nowrap;
   }
 
+  .author__url-item,
+  .author__url-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+  }
+
+  .author__url-item {
+    margin-bottom: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: $type-size-5;
+  }
+
   a {
     display: block;
     margin-bottom: 5px;
@@ -233,5 +248,20 @@
     &:hover {
       text-decoration: underline;
     }
+  }
+
+  .author__icon {
+    width: 1rem;
+    height: 1rem;
+    flex: 0 0 1rem;
+    display: inline-block;
+  }
+
+  .author__icon--stroke {
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.4;
+    stroke-linecap: round;
+    stroke-linejoin: round;
   }
 }
