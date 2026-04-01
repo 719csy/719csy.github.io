@@ -113,7 +113,7 @@ I am a doctoral student at the [Bioelectronics Research Group](https://www.junch
     </div>
     <div class="publication-content">
       <div class="publication-title">Soft Magnetoelastic Microneedle Patch for Rapid Skin Cancer Screening</div>
-      <div class="publication-authors">Xun Zhao, Songyue Chen, Xiao Han, Xiujun Fan, Ganghao Liang, Yihao Zhou, Yizhuo Xu, Yang Song, Aaron Li, Zhaoqi Duan, William Kwak, Guorui Chen, Isabel Day, Shili Xu, Zhen Gu, Song Li, Jun Chen.</div>
+      <div class="publication-authors">Xun Zhao, <strong>Songyue Chen</strong>, Xiao Han, Xiujun Fan, Ganghao Liang, Yihao Zhou, Yizhuo Xu, Yang Song, Aaron Li, Zhaoqi Duan, William Kwak, Guorui Chen, Isabel Day, Shili Xu, Zhen Gu, Song Li, Jun Chen.</div>
       <div class="publication-venue"><em>Nature Sensors</em>, under review.</div>
       <div class="publication-note">Also see <em>Artificial intelligence-assisted soft magnetoelastic microneedle patch for super-resolution mechanical mapping of skin tumors.</em></div>
     </div>
@@ -125,7 +125,7 @@ I am a doctoral student at the [Bioelectronics Research Group](https://www.junch
     </div>
     <div class="publication-content">
       <a class="publication-title" href="{{ '/files/publications/parkinsons-ball.pdf' | relative_url }}">A soft magnetoelastic ball for self-powered Parkinson's Disease diagnosis</a>
-      <div class="publication-authors">Tat, Trinny, Jing Xu, Xiao Xiao, Songyue Chen, Zhaoqi Duan, Xun Zhao, Guorui Chen, Junyi Yin, and Jun Chen.</div>
+      <div class="publication-authors">Trinny Tat, Jing Xu, Xiao Xiao, <strong>Songyue Chen</strong>, Zhaoqi Duan, Xun Zhao, Guorui Chen, Junyi Yin, Jun Chen.</div>
       <div class="publication-venue"><em>Cell Biomaterials</em>, 2026.</div>
       <div class="publication-links"><a href="{{ '/files/publications/parkinsons-ball.pdf' | relative_url }}">PDF</a></div>
     </div>
@@ -137,7 +137,7 @@ I am a doctoral student at the [Bioelectronics Research Group](https://www.junch
     </div>
     <div class="publication-content">
       <a class="publication-title" href="{{ '/files/publications/protein-modeling.pdf' | relative_url }}">Research Journey of Generative Protein Modeling</a>
-      <div class="publication-authors">Chen, Xinhui, Yiwen Yuan, Joseph Liu, Chak Tou Leong, Zhen Xie, Xiaoye Zhu, Ying Chen, Songyue Chen, Chenyi Wang, Kun Li, Jie Zhang, Zuchao Li, Jiaqi Chen.</div>
+      <div class="publication-authors">Xinhui Chen, Yiwen Yuan, Joseph Liu, Chak Tou Leong, Zhen Xie, Xiaoye Zhu, Ying Chen, <strong>Songyue Chen</strong>, Chenyi Wang, Kun Li, Jie Zhang, Zuchao Li, Jiaqi Chen.</div>
       <div class="publication-venue"><em>NeurIPS 2024 Workshop</em>.</div>
       <div class="publication-links"><a href="{{ '/files/publications/protein-modeling.pdf' | relative_url }}">PDF</a></div>
     </div>
@@ -149,7 +149,7 @@ I am a doctoral student at the [Bioelectronics Research Group](https://www.junch
     </div>
     <div class="publication-content">
       <a class="publication-title" href="{{ '/files/publications/wearable-biomonitoring.pdf' | relative_url }}">Advances in 2D materials for wearable biomonitoring</a>
-      <div class="publication-authors">Chen, Songyue, Shumao Xu, Xiujun Fan, Xiao Xiao, Zhaoqi Duan, Xun Zhao, Guorui Chen, Yihao Zhou, Jun Chen.</div>
+      <div class="publication-authors"><strong>Songyue Chen</strong>, Shumao Xu, Xiujun Fan, Xiao Xiao, Zhaoqi Duan, Xun Zhao, Guorui Chen, Yihao Zhou, Jun Chen.</div>
       <div class="publication-venue"><em>Materials Science and Engineering: R: Reports</em>, 2024.</div>
       <div class="publication-links"><a href="{{ '/files/publications/wearable-biomonitoring.pdf' | relative_url }}">PDF</a></div>
     </div>
@@ -161,7 +161,7 @@ I am a doctoral student at the [Bioelectronics Research Group](https://www.junch
     </div>
     <div class="publication-content">
       <a class="publication-title" href="{{ '/files/publications/obesity-microneedle.pdf' | relative_url }}">A quick paster type of soluble nanoparticle microneedle patch for the treatment of obesity</a>
-      <div class="publication-authors">Chen, Songyue, Junbo Wang, Liyu Sun, Fangzhi Xia, Wenzhe Li, Lan Yuan, Chang Liu, Peishan Li, Chunjie Bao, Mengjie Wang, Guiling Wang, Ying Xie, Wanliang Lu.</div>
+      <div class="publication-authors"><strong>Songyue Chen</strong>, Junbo Wang, Liyu Sun, Fangzhi Xia, Wenzhe Li, Lan Yuan, Chang Liu, Peishan Li, Chunjie Bao, Mengjie Wang, Guiling Wang, Ying Xie, Wanliang Lu.</div>
       <div class="publication-venue"><em>Biomaterials</em>, 2024.</div>
       <div class="publication-links"><a href="{{ '/files/publications/obesity-microneedle.pdf' | relative_url }}">PDF</a></div>
     </div>
@@ -173,7 +173,7 @@ I am a doctoral student at the [Bioelectronics Research Group](https://www.junch
     </div>
     <div class="publication-content">
       <a class="publication-title" href="{{ '/files/publications/cardiac-monitoring.pdf' | relative_url }}">A reconfigurable and conformal liquid sensor for ambulatory cardiac monitoring</a>
-      <div class="publication-authors">Zhao, Xun, Yihao Zhou, William Kwak, Aaron Li, Shaolei Wang, Marklin Dallenger, Songyue Chen, Yuqi Zhang, Allison Lium, Jun Chen.</div>
+      <div class="publication-authors">Xun Zhao, Yihao Zhou, William Kwak, Aaron Li, Shaolei Wang, Marklin Dallenger, <strong>Songyue Chen</strong>, Yuqi Zhang, Allison Lium, Jun Chen.</div>
       <div class="publication-venue"><em>Nature Communications</em>, 2024.</div>
       <div class="publication-links"><a href="{{ '/files/publications/cardiac-monitoring.pdf' | relative_url }}">PDF</a></div>
     </div>
