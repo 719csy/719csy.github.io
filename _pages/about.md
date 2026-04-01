@@ -10,7 +10,8 @@ redirect_from:
 I am a doctoral student at the [Bioelectronics Research Group](https://www.junchenlab.com) of the University of California, Los Angeles (UCLA), advised by [Prof. Jun Chen](https://samueli.ucla.edu/people/junchen/).
 
 
-# Publications 
+## Publications
+[Full list](https://www.researchgate.net/profile/Songyue-Chen-2)
 
 <style>
   .publication-list {
@@ -21,12 +22,18 @@ I am a doctoral student at the [Bioelectronics Research Group](https://www.junch
     display: flex;
     align-items: flex-start;
     gap: 2rem;
-    margin: 0 0 3rem;
+    margin: 0 0 2.5rem;
   }
 
   .publication-media {
     flex: 0 0 260px;
     max-width: 260px;
+  }
+
+  .publication-media-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
   }
 
   .publication-media img,
@@ -38,24 +45,43 @@ I am a doctoral student at the [Bioelectronics Research Group](https://www.junch
     border-radius: 4px;
   }
 
+  .publication-media video {
+    aspect-ratio: 16 / 9;
+    background: #000;
+  }
+
   .publication-content {
     flex: 1 1 auto;
     min-width: 0;
+    font-family: inherit;
+    font-size: 1em;
+    line-height: 1.5;
   }
 
   .publication-title {
-    display: inline-block;
-    font-size: 1.5rem;
+    display: block;
+    margin-bottom: 0.25rem;
+    color: inherit;
+    font-family: inherit;
+    font-size: 1em;
     font-weight: 700;
-    line-height: 1.25;
+    line-height: 1.5;
+    text-decoration: none;
   }
 
   .publication-authors,
   .publication-venue,
   .publication-links,
   .publication-note {
-    font-size: 1.05rem;
-    line-height: 1.6;
+    font-family: inherit;
+    font-size: 1em;
+    line-height: 1.5;
+  }
+
+  .publication-authors,
+  .publication-venue,
+  .publication-links {
+    margin-bottom: 0.35rem;
   }
 
   .publication-links,
@@ -79,84 +105,80 @@ I am a doctoral student at the [Bioelectronics Research Group](https://www.junch
 
 <div class="publication-list">
   <div class="publication-item">
-    <div class="publication-media">
+    <div class="publication-media publication-media-stack">
       <video controls playsinline preload="metadata">
-        <source src="{{ '/_publications/Soft%20Magnetoelastic%20Microneedle%20Patch%20for%20Rapid%20Skin%20Cancer%20Screening.mp4' | relative_url }}" type="video/mp4">
+        <source src="{{ '/files/publications/skin-cancer-screening.mp4' | relative_url }}" type="video/mp4">
       </video>
+      <img src="{{ '/files/publications/skin-cancer-screening.png' | relative_url }}" alt="Soft Magnetoelastic Microneedle Patch for Rapid Skin Cancer Screening TIFF preview" loading="lazy">
     </div>
     <div class="publication-content">
-      <a class="publication-title" href="{{ '/_publications/Soft%20Magnetoelastic%20Microneedle%20Patch%20for%20Rapid%20Skin%20Cancer%20Screening.mp4' | relative_url }}">Soft Magnetoelastic Microneedle Patch for Rapid Skin Cancer Screening</a>
+      <div class="publication-title">Soft Magnetoelastic Microneedle Patch for Rapid Skin Cancer Screening</div>
       <div class="publication-authors">Xun Zhao, Songyue Chen, Xiao Han, Xiujun Fan, Ganghao Liang, Yihao Zhou, Yizhuo Xu, Yang Song, Aaron Li, Zhaoqi Duan, William Kwak, Guorui Chen, Isabel Day, Shili Xu, Zhen Gu, Song Li, Jun Chen.</div>
       <div class="publication-venue"><em>Nature Sensors</em>, under review.</div>
-      <div class="publication-links"><a href="{{ '/_publications/Soft%20Magnetoelastic%20Microneedle%20Patch%20for%20Rapid%20Skin%20Cancer%20Screening.mp4' | relative_url }}">Video</a> | <a href="{{ '/_publications/Soft%20Magnetoelastic%20Microneedle%20Patch%20for%20Rapid%20Skin%20Cancer%20Screening.tif' | relative_url }}">TIFF figure</a></div>
-      <div class="publication-note">Also see Artificial intelligence-assisted soft magnetoelastic microneedle patch for super-resolution mechanical mapping of skin tumors.</em></div>
+      <div class="publication-note">Also see <em>Artificial intelligence-assisted soft magnetoelastic microneedle patch for super-resolution mechanical mapping of skin tumors.</em></div>
     </div>
   </div>
 
   <div class="publication-item">
     <div class="publication-media">
-      <img src="{{ '/_publications/A%20soft%20magnetoelastic%20ball%20for%20self-powered%20Parkinson%E2%80%99s%20Disease%20diagnosis.jpg' | relative_url }}" alt="A soft magnetoelastic ball for self-powered Parkinson's Disease diagnosis" loading="lazy">
+      <img src="{{ '/files/publications/parkinsons-ball.jpg' | relative_url }}" alt="A soft magnetoelastic ball for self-powered Parkinson's Disease diagnosis" loading="lazy">
     </div>
     <div class="publication-content">
-      <a class="publication-title" href="{{ '/_publications/A%20soft%20magnetoelastic%20ball%20for%20self-powered%20Parkinson%E2%80%99s%20disease%20diagnosis.pdf' | relative_url }}">A soft magnetoelastic ball for self-powered Parkinson's Disease diagnosis</a>
+      <a class="publication-title" href="{{ '/files/publications/parkinsons-ball.pdf' | relative_url }}">A soft magnetoelastic ball for self-powered Parkinson's Disease diagnosis</a>
       <div class="publication-authors">Tat, Trinny, Jing Xu, Xiao Xiao, Songyue Chen, Zhaoqi Duan, Xun Zhao, Guorui Chen, Junyi Yin, and Jun Chen.</div>
       <div class="publication-venue"><em>Cell Biomaterials</em>, 2026.</div>
-      <div class="publication-links"><a href="{{ '/_publications/A%20soft%20magnetoelastic%20ball%20for%20self-powered%20Parkinson%E2%80%99s%20disease%20diagnosis.pdf' | relative_url }}">PDF</a></div>
+      <div class="publication-links"><a href="{{ '/files/publications/parkinsons-ball.pdf' | relative_url }}">PDF</a></div>
     </div>
   </div>
 
   <div class="publication-item">
     <div class="publication-media">
-      <img src="{{ '/_publications/Research%20Journey%20of%20Generative%20Protein%20Modeling.jpeg' | relative_url }}" alt="Research Journey of Generative Protein Modeling" loading="lazy">
+      <img src="{{ '/files/publications/protein-modeling.jpeg' | relative_url }}" alt="Research Journey of Generative Protein Modeling" loading="lazy">
     </div>
     <div class="publication-content">
-      <a class="publication-title" href="{{ '/_publications/Research%20Journey%20of%20Generative%20Protein%20Modeling.pdf' | relative_url }}">Research Journey of Generative Protein Modeling</a>
+      <a class="publication-title" href="{{ '/files/publications/protein-modeling.pdf' | relative_url }}">Research Journey of Generative Protein Modeling</a>
       <div class="publication-authors">Chen, Xinhui, Yiwen Yuan, Joseph Liu, Chak Tou Leong, Zhen Xie, Xiaoye Zhu, Ying Chen, Songyue Chen, Chenyi Wang, Kun Li, Jie Zhang, Zuchao Li, Jiaqi Chen.</div>
       <div class="publication-venue"><em>NeurIPS 2024 Workshop</em>.</div>
-      <div class="publication-links"><a href="{{ '/_publications/Research%20Journey%20of%20Generative%20Protein%20Modeling.pdf' | relative_url }}">PDF</a></div>
+      <div class="publication-links"><a href="{{ '/files/publications/protein-modeling.pdf' | relative_url }}">PDF</a></div>
     </div>
   </div>
 
   <div class="publication-item">
     <div class="publication-media">
-      <img src="{{ '/_publications/Advances%20in%202D%20materials%20for%20wearable%20biomonitoring.jpg' | relative_url }}" alt="Advances in 2D materials for wearable biomonitoring" loading="lazy">
+      <img src="{{ '/files/publications/wearable-biomonitoring.jpg' | relative_url }}" alt="Advances in 2D materials for wearable biomonitoring" loading="lazy">
     </div>
     <div class="publication-content">
-      <a class="publication-title" href="{{ '/_publications/Advances%20in%202D%20materials%20for%20wearable%20biomonitoring.pdf' | relative_url }}">Advances in 2D materials for wearable biomonitoring</a>
+      <a class="publication-title" href="{{ '/files/publications/wearable-biomonitoring.pdf' | relative_url }}">Advances in 2D materials for wearable biomonitoring</a>
       <div class="publication-authors">Chen, Songyue, Shumao Xu, Xiujun Fan, Xiao Xiao, Zhaoqi Duan, Xun Zhao, Guorui Chen, Yihao Zhou, Jun Chen.</div>
       <div class="publication-venue"><em>Materials Science and Engineering: R: Reports</em>, 2024.</div>
-      <div class="publication-links"><a href="{{ '/_publications/Advances%20in%202D%20materials%20for%20wearable%20biomonitoring.pdf' | relative_url }}">PDF</a></div>
+      <div class="publication-links"><a href="{{ '/files/publications/wearable-biomonitoring.pdf' | relative_url }}">PDF</a></div>
     </div>
   </div>
 
   <div class="publication-item">
     <div class="publication-media">
-      <img src="{{ '/_publications/A%20quick%20paster%20type%20of%20soluble%20nanoparticle%20microneedle%20patch%20for%20the%20treatment%20of%20obesity.jpg' | relative_url }}" alt="A quick paster type of soluble nanoparticle microneedle patch for the treatment of obesity" loading="lazy">
+      <img src="{{ '/files/publications/obesity-microneedle.jpg' | relative_url }}" alt="A quick paster type of soluble nanoparticle microneedle patch for the treatment of obesity" loading="lazy">
     </div>
     <div class="publication-content">
-      <a class="publication-title" href="{{ '/_publications/A%20quick%20paster%20type%20of%20soluble%20nanoparticle%20microneedle%20patch%20for%20the%20treatment%20of%20obesity.pdf' | relative_url }}">A quick paster type of soluble nanoparticle microneedle patch for the treatment of obesity</a>
+      <a class="publication-title" href="{{ '/files/publications/obesity-microneedle.pdf' | relative_url }}">A quick paster type of soluble nanoparticle microneedle patch for the treatment of obesity</a>
       <div class="publication-authors">Chen, Songyue, Junbo Wang, Liyu Sun, Fangzhi Xia, Wenzhe Li, Lan Yuan, Chang Liu, Peishan Li, Chunjie Bao, Mengjie Wang, Guiling Wang, Ying Xie, Wanliang Lu.</div>
       <div class="publication-venue"><em>Biomaterials</em>, 2024.</div>
-      <div class="publication-links"><a href="{{ '/_publications/A%20quick%20paster%20type%20of%20soluble%20nanoparticle%20microneedle%20patch%20for%20the%20treatment%20of%20obesity.pdf' | relative_url }}">PDF</a></div>
+      <div class="publication-links"><a href="{{ '/files/publications/obesity-microneedle.pdf' | relative_url }}">PDF</a></div>
     </div>
   </div>
 
   <div class="publication-item">
     <div class="publication-media">
-      <img src="{{ '/_publications/A%20reconfigurable%20and%20conformal%20liquid%20sensor%20for%20ambulatory%20cardiac%20monitoring.png' | relative_url }}" alt="A reconfigurable and conformal liquid sensor for ambulatory cardiac monitoring" loading="lazy">
+      <img src="{{ '/files/publications/cardiac-monitoring.png' | relative_url }}" alt="A reconfigurable and conformal liquid sensor for ambulatory cardiac monitoring" loading="lazy">
     </div>
     <div class="publication-content">
-      <a class="publication-title" href="{{ '/_publications/A%20reconfigurable%20and%20conformal%20liquid%20sensor%20for%20ambulatory%20cardiac%20monitoring.pdf' | relative_url }}">A reconfigurable and conformal liquid sensor for ambulatory cardiac monitoring</a>
+      <a class="publication-title" href="{{ '/files/publications/cardiac-monitoring.pdf' | relative_url }}">A reconfigurable and conformal liquid sensor for ambulatory cardiac monitoring</a>
       <div class="publication-authors">Zhao, Xun, Yihao Zhou, William Kwak, Aaron Li, Shaolei Wang, Marklin Dallenger, Songyue Chen, Yuqi Zhang, Allison Lium, Jun Chen.</div>
       <div class="publication-venue"><em>Nature Communications</em>, 2024.</div>
-      <div class="publication-links"><a href="{{ '/_publications/A%20reconfigurable%20and%20conformal%20liquid%20sensor%20for%20ambulatory%20cardiac%20monitoring.pdf' | relative_url }}">PDF</a></div>
+      <div class="publication-links"><a href="{{ '/files/publications/cardiac-monitoring.pdf' | relative_url }}">PDF</a></div>
     </div>
   </div>
 </div>
-
-
-
-[Full list](https://www.researchgate.net/profile/Songyue-Chen-2)
 
 
 ## Hornors and Awards
