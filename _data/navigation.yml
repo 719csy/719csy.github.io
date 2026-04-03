@@ -1,8 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    # url: /cv/
-    url: /files/Songyue_Chen_Amazon_Fellowship_CV_v5.pdf
+    url: /cv/
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en
         
   # - title: "Blog Posts"

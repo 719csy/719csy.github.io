@@ -7,5 +7,16 @@ redirect_from:
 - /resume
 ---
 
-<embed src="../files/Songyue_Chen_Amazon_Fellowship_CV_v5.pdf" type="application/pdf" frameBorder="0" scrolling="auto" height="100%"
-  width="100%"></embed>
+{% assign cv_pdf = '/files/Songyue_Chen_CV.pdf' | relative_url %}
+
+<p>
+  <a href="{{ cv_pdf }}">Open the PDF in a new tab</a>
+  if the embedded viewer does not load in your browser.
+</p>
+
+<iframe
+  src="{{ cv_pdf }}"
+  title="Songyue Chen CV"
+  style="width: 100%; min-height: 1100px; border: 1px solid #d8d8d8;"
+>
+</iframe>
