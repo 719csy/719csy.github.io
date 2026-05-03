@@ -116,6 +116,7 @@ I am a doctoral student at the [Bioelectronics Research Group](https://www.junch
       <div class="publication-authors">Xun Zhao, <strong>Songyue Chen</strong>, Xiao Han, Xiujun Fan, Ganghao Liang, Yihao Zhou, Yizhuo Xu, Yang Song, Aaron Li, Zhaoqi Duan, William Kwak, Guorui Chen, Isabel Day, Shili Xu, Zhen Gu, Song Li, Jun Chen.</div>
       <div class="publication-venue"><em>Nature Sensors</em>, under review.</div>
       <div class="publication-note">Also see <em>Artificial intelligence-assisted soft magnetoelastic microneedle patch for super-resolution mechanical mapping of skin tumors.</em></div>
+      <div class="publication-links"><a href="{{ '/files/publications/Soft_MMP_screening.pdf' | relative_url }}">PDF</a></div>
     </div>
   </div>
 
